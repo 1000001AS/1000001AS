@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1000001AS
+- 👋 Hi, I’m @1000001AS- Alondra Avila!
 - 👀 I’m interested in Programming and Business.
 - 🌱 I’m currently learning Python, Java, C++ and HTML
 - 💞️ I’m looking to collaborate on any kind of program but specifically machine learning.
