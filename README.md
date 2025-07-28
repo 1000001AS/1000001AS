@@ -1,4 +1,5 @@
 I am currently a student at Western Governors University, pursuing a Bachelor of Science in Cybersecurity and Information Assurance. My technical skills include Python, and my favorite project so far has been developing a ticketing system. I am passionate about using my voice for others, guided by the motto: “I raise up my voice—not so that I can shout, but so that those without a voice can be heard. … We cannot all succeed when half of us are held back.”
 
-Beyond cybersecurity, I enjoy K-pop, hiking, and reading books—right now, I’m diving into "The Art of Invisibility" by Kevin Mitnick. Feel free to connect with me on LinkedIn: alondra-avila12.
+Beyond cybersecurity, I enjoy K-pop, hiking, and reading books—right now, I’m diving into "The Art of Invisibility" by Kevin Mitnick. Feel free to connect with me on LinkedIn: alondra-avila12
+
 
